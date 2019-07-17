@@ -1,7 +1,7 @@
-# Download Office 2016 and install it.
+1. Download Office 2016 and install it.
 
-# Once it's installed, be sure everything is closed.
+2. Once it's installed, be sure everything is closed.
 
-# Go to your desktop, right-click then new text file
+3. Go to your desktop, right-click then new text file
 
-# Copy paste
+4. Copy paste
