@@ -2,6 +2,6 @@
 
 2. Once it's installed, be sure everything is closed.
 
-3. Go to your desktop, right-click then new text file
+3. Get #activation.cmd# file to your computer, right-click on it and Run it as Administrator
 
-4. Copy paste
+4. Enjoy!
